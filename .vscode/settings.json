@@ -1,6 +1,4 @@
 {
-    "editor.fontSize": 16,
     "javascript.preferences.quoteStyle":"single",
-    "typescript.preferences.quoteStyle": "single",  
-    "editor.codeActionsOnSave": null
+    "typescript.preferences.quoteStyle": "single"
 }
